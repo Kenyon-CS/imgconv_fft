@@ -208,9 +208,9 @@ What to show:
 
 ---
 
-## Teaching Notes (Optional)
+## Teaching Notes
 
-Good discussion questions:
+Some discussion questions:
 
 * Why does naive win for small kernels?
 * Where does FFT spend its time?
